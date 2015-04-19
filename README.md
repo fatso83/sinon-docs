@@ -37,7 +37,7 @@ syntax in `src/sinon_docs/pages.clj`. The frontpage is a partial that lives in
 There are some tests. Run them with [midje](https://github.com/marick/Midje):
 
 ```sh
-lein midje
+lein test
 ```
 
 If you're going to add or change something, you might want the tests to keep
